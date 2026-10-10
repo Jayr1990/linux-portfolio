@@ -1,7 +1,7 @@
 Linux Administration Portfolio
 This is where I keep my lab work from CIS-245 Linux Administration.
 
-The labs below show what I have been working on this term: setting up Linux servers, using shell tools for text processing, and documenting everything along the way.
+The labs below show what I have been working on this term: setting up Linux servers, using shell tools for text processing, managing packages and services, and documenting everything along the way.
 
 Labs
 Server Setup
@@ -15,6 +15,9 @@ Stream editing with sed. Substitution, deletion, line ranges, pattern addresses,
 
 Awk Lab
 Field-based text processing with awk. Printing specific fields, filtering by conditions, doing arithmetic on fields, and writing an awk script.
+
+Installs Lab
+Package installation on CentOS and Ubuntu. Covered EPEL setup, fail2ban configuration, and full documentation of what was installed and when.
 
 Skills Practiced
 Package management with dnf and apt
