@@ -1,24 +1,33 @@
 Linux Administration Portfolio
 This is where I keep my lab work from CIS-245 Linux Administration.
 
+The labs below show what I have been working on this term: setting up Linux servers, using shell tools for text processing, and documenting everything along the way.
+
 Labs
-Server setup — Building CentOS Stream 10 and Ubuntu 26.04 VMs, configuring networking (bridged vs NAT), troubleshooting IP loss
+Server Setup
+Setting up CentOS Stream 10 and Ubuntu 26.04 in VirtualBox, troubleshooting network problems (Bridged vs NAT), and getting file transfers working with scp and port forwarding.
 
-Sed lab — Text substitution, deletion, pattern matching, and writing a sed script
+Grep Lab
+Searching files for patterns using grep and regular expressions. Covered anchors, character classes, alternation, and inverted matches.
 
-Awk lab — Field based processing, pattern blocks, and writing an awk script
+Sed Lab
+Stream editing with sed. Substitution, deletion, line ranges, pattern addresses, and writing a sed script.
 
-Installs lab — Package installation on CentOS and Ubuntu, EPEL repository setup, fail2ban configuration, and full documentation of what was installed
+Awk Lab
+Field-based text processing with awk. Printing specific fields, filtering by conditions, doing arithmetic on fields, and writing an awk script.
 
-Skills practiced
-Package management (dnf and apt)
+Skills Practiced
+Package management with dnf and apt
 
 Repository configuration (yum.repos.d and apt sources)
 
-Service management (systemctl)
+Service management with systemctl
 
-Shell text processing (sed, awk)
+Shell text processing tools (grep, sed, awk)
 
-Virtual networking in VirtualBox
+Virtual networking in VirtualBox (NAT, bridged, port forwarding)
 
-Technical documentation
+Technical documentation and troubleshooting write-ups
+
+Find Me
+GitHub: @Jayr1990
