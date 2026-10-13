@@ -19,6 +19,11 @@ Field-based text processing with awk. Printing specific fields, filtering by con
 Installs Lab
 Package installation on CentOS and Ubuntu. Covered EPEL setup, fail2ban configuration, and full documentation of what was installed and when.
 
+Networking Lab 
+(networking/networking-lab.md)
+
+Network configuration for both servers, plus two scripts. One dumps network info to a file. The other is interactive and gives troubleshooting steps based on which server you are on.
+
 Skills Practiced
 Package management with dnf and apt
 
