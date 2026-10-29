@@ -24,6 +24,11 @@ Networking Lab
 
 Network configuration for both servers, plus two scripts. One dumps network info to a file. The other is interactive and gives troubleshooting steps based on which server you are on.
 
+IPTables Lab
+Firewall configuration and DDoS testing on both servers. Covered port forwarding, allowing specific services, blocking insecure protocols, and implementing connection limits.
+
+
+
 Skills Practiced
 Package management with dnf and apt
 
