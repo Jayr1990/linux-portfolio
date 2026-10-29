@@ -27,7 +27,8 @@ Network configuration for both servers, plus two scripts. One dumps network info
 IPTables Lab
 Firewall configuration and DDoS testing on both servers. Covered port forwarding, allowing specific services, blocking insecure protocols, and implementing connection limits.
 
-
+Installs, Updates, and Documentation Lab
+Package installation on CentOS and Ubuntu. Covered EPEL setup, fail2ban configuration, testing each program, and full documentation of what was installed and when.
 
 Skills Practiced
 Package management with dnf and apt
