@@ -28,6 +28,9 @@ Firewall configuration and DDoS testing on both servers. Covered port forwarding
 Installs, Updates, and Documentation Lab
 Package installation on CentOS and Ubuntu. Covered EPEL setup, fail2ban configuration, testing each program, and full documentation of what was installed and when.
 
+Scripting for Server Security Part 1](security_audit_chatgpt.sh)
+Evaluated AI-generated security audit scripts (ChatGPT and Gemini) on CentOS and Ubuntu. Includes testing, line-by-line research, and documentation of required fixes.
+
 Skills Practiced
 Package management with dnf and apt
 
