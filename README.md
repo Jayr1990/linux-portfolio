@@ -31,6 +31,9 @@ Package installation on CentOS and Ubuntu. Covered EPEL setup, fail2ban configur
 Scripting for Server Security Part 1](security_audit_chatgpt.sh)
 Evaluated AI-generated security audit scripts (ChatGPT and Gemini) on CentOS and Ubuntu. Includes testing, line-by-line research, and documentation of required fixes.
 
+Security Part 2 Script troubleshoot.sh
+Automated diagnostic script created to detect the system failures caused by the B0rk script.
+
 Skills Practiced
 Package management with dnf and apt
 
